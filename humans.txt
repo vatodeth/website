@@ -14,4 +14,6 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-# just another comment
+# updates on master branch
+
+  Stuff here should conflict
